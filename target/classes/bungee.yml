@@ -1,0 +1,5 @@
+name: KLimit
+version: '1.0-BETA'
+main: awa.catnosoul.klimit.KLimit
+author: Krila Network Development
+description: Anti-mutiplayers under the same ip
